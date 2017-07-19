@@ -32,7 +32,7 @@ Some features are still in development
 Slic3r is placed in folder tools/Slic3r-Lite
 
 ### Documentation
-Not yet, but we are working on it :-) 
+Not yet, but we are working on it :-)
 
 ### Translations
 If you want to create translation of PrusaControl, to your native language, you can. First, check if your language is not in folder **ts** or in **pull request** section. If you find pull request, of your language, please review it. We are not able to check every language and we will accept only translations reviewed by some other translater.
